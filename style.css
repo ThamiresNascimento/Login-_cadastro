@@ -1,3 +1,17 @@
 body{
-    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(45deg, #864127, #b4683d);
 }
+
+#screen-register{
+    background-color: rgba(0, 0, 0, 0.8);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 80px;
+    border-radius: 15px;
+    color: #d89576;
+}
+
+i
