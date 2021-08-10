@@ -11,5 +11,31 @@ body{
     transform: translate(-50%, -50%);
     padding: 80px;
     border-radius: 15px;
-    color: #d89576;
+    text-align: center;
+    color: rgb(238, 140, 95);
+}
+
+input{
+    padding: 15px;
+    border: none;
+    outline: none;
+    border-radius: 15px;
+    font-size: 15px;
+}
+
+.button{
+    background-color: #b05b3b;
+    padding: 10px;
+    border-radius: 15px;
+    width: 230px;
+}
+
+button:hover{
+    background-color: #753422;
+}
+
+.forgot-password{
+    color: burlywood;
+    top: 100px;
+    left: 15px;
 }
